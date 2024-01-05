@@ -1,0 +1,12 @@
+{
+  "name": "solving-algorithms",
+  "version": "1.0.0",
+  "description": "A collection of my algorithm exercises and solutions. Join me as I explore and master the art of problem-solving through coding challenges.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
